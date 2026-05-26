@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yanng\\source\\repos\\EindOpdracht_YannGeman_FlyerGame\\Code\\Code.csproj": {}
+    "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yanng\\source\\repos\\EindOpdracht_YannGeman_FlyerGame\\Code\\Code.csproj": {
+    "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yanng\\source\\repos\\EindOpdracht_YannGeman_FlyerGame\\Code\\Code.csproj",
+        "projectUniqueName": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Code.csproj",
         "projectName": "Code",
-        "projectPath": "C:\\Users\\yanng\\source\\repos\\EindOpdracht_YannGeman_FlyerGame\\Code\\Code.csproj",
+        "projectPath": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Code.csproj",
         "packagesPath": "C:\\Users\\yanng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yanng\\source\\repos\\EindOpdracht_YannGeman_FlyerGame\\Code\\obj\\",
+        "outputPath": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

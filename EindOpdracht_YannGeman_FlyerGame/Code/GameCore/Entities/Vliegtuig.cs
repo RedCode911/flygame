@@ -16,8 +16,8 @@ namespace Code.GameCore.Entities
         private const float BASE_SPEED_X = 0;
         private const float BASE_SPEED_Y = (float)-0.5;
 
-        private int BREETE_SKIER = 16;
-        private int LENGT_SKIER = 20;
+        private int BREETE_SKIER = 250;
+        private int LENGT_SKIER = 5;
 
         private const int COLLISION_BOX_INSET = 3;
 

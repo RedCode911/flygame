@@ -4,15 +4,15 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/yanng/source/repos/EindOpdracht_YannGeman_FlyerGame/Code/Content/Fonts/game-font.spritefont</File>
-    <File>C:/Users/yanng/source/repos/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/background.png</File>
-    <File>C:/Users/yanng/source/repos/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/enemy_plane1.png</File>
-    <File>C:/Users/yanng/source/repos/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/enemy_plane2.png</File>
-    <File>C:/Users/yanng/source/repos/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/house_blue.png</File>
-    <File>C:/Users/yanng/source/repos/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/house_red.png</File>
-    <File>C:/Users/yanng/source/repos/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/plane.png</File>
-    <File>C:/Users/yanng/source/repos/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/tree.png</File>
-    <File>C:/Users/yanng/source/repos/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/trees.png</File>
+    <File>C:/Users/yanng/flygame/EindOpdracht_YannGeman_FlyerGame/Code/Content/Fonts/game-font.spritefont</File>
+    <File>C:/Users/yanng/flygame/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/background.png</File>
+    <File>C:/Users/yanng/flygame/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/enemy_plane1.png</File>
+    <File>C:/Users/yanng/flygame/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/enemy_plane2.png</File>
+    <File>C:/Users/yanng/flygame/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/house_blue.png</File>
+    <File>C:/Users/yanng/flygame/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/house_red.png</File>
+    <File>C:/Users/yanng/flygame/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/plane.png</File>
+    <File>C:/Users/yanng/flygame/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/tree.png</File>
+    <File>C:/Users/yanng/flygame/EindOpdracht_YannGeman_FlyerGame/Code/Content/Sprites/trees.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

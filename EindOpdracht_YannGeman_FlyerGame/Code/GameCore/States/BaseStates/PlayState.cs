@@ -18,9 +18,19 @@ namespace Code.GameCore.States.BaseStates
         public PlayState(GameContext context)
             : base(context)
         {
+            List<Texture2D> enemyTextures = new List<Texture2D>
+            {
+                context.AssetsManager.GetTexture(AssetNames.ENEMY1_TEXTURE),
+                context.AssetsManager.GetTexture(AssetNames.ENEMY2_TEXTURE),
+                context.AssetsManager.GetTexture(AssetNames.HOUSE1_TEXTURE),
+                context.AssetsManager.GetTexture(AssetNames.HOUSE2_TEXTURE),
+                context.AssetsManager.GetTexture(AssetNames.TREE_TEXTURE),
+                context.AssetsManager.GetTexture(AssetNames.TREEs_TEXTURE)
+            };
+
             _enemySpawner = new ObstacleManager(
                 context.Enemies,
-                context.AssetsManager.GetTexture(AssetNames.ENEMY1_TEXTURE));
+                enemyTextures);
         }
 
         public override void Update(GameTime gameTime)

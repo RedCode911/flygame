@@ -15,12 +15,12 @@ namespace Code.GameCore.Entities.Factorys
     {
         public static PlayerSprite CreatePlayerInVerticalCenter(Texture2D texture, float speed, float scale, IPlayerInputService inputService)
         {
-            return CreatePlayer(texture, GraphicsFacade.GetWindowVerticalCenter(), speed, scale, inputService);
+            return CreatePlayer(texture, speed, scale, inputService);
         }
 
-        public static PlayerSprite CreatePlayer(Texture2D texture, float y, float speed, float scale, IPlayerInputService inputService)
+        public static PlayerSprite CreatePlayer(Texture2D texture, float speed, float scale, IPlayerInputService inputService)
         {
-            return new PlayerSprite(texture, new Vector2(0, y), speed, scale, inputService);
+            return new PlayerSprite(texture, new Vector2(GraphicsFacade.GetWindowHorizontalCenter(), GraphicsFacade.GetWindowVerticalCenter()*2 -50), speed, scale, inputService);
         }
 
     }

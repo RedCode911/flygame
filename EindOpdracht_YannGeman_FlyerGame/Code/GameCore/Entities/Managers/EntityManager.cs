@@ -32,8 +32,7 @@ namespace Code.GameCore.Entities.Managers
         {
             
             if (!_textureAssets.TryGetValue(name, out var texture))
-            {
-                
+            {    
                 texture = _contentManager.Load<Texture2D>(name);
                 _textureAssets.Add(name, texture);
             }

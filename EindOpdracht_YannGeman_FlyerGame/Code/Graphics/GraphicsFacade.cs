@@ -41,6 +41,13 @@ namespace Code.Graphics
             // * is a lot faster than /
             return _graphics.PreferredBackBufferHeight * 0.5f;
         }
+        public static float GetWindowHorizontalCenter()
+        {
+            GraphicsFacadeNotInitializedException.ThrowIfNull(_graphics);
+
+            // * is a lot faster than /
+            return _graphics.PreferredBackBufferWidth * 0.5f;
+        }
 
         public static float GetWindowWidth()
         {
