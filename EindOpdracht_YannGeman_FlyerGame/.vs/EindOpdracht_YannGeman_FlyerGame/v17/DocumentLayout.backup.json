@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\enemyplane2sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\enemyplane2sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\redhousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\redhousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\gamestates\\twoplayerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\gamestates\\twoplayerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\enemyplane1sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\enemyplane1sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\gamestates\\solostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\gamestates\\solostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\bluehousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\bluehousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\gamestates\\scorebordstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\gamestates\\scorebordstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\treesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\treesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\sprites\\playersprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\sprites\\playersprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\treessprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\treessprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\interfaces\\iplayerinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\interfaces\\iplayerinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\sprites\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\sprites\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\base\\enemysprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\base\\enemysprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\basestates\\playstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\basestates\\playstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\factorys\\playerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\factorys\\playerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\basestates\\pauzestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,28 +39,80 @@
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\basestates\\manustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\sprites\\playersprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\sprites\\playersprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\vliegtuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\vliegtuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\basestates\\playstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\basestates\\playstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\base\\enemysprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\base\\enemysprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\redhousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\redhousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\sprites\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\sprites\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\interfaces\\igameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\interfaces\\igameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\basestates\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\basestates\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\bluehousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\bluehousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\system\\inputs\\playerinputserviceplayer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\system\\inputs\\playerinputserviceplayer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\system\\inputs\\playerinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\system\\inputs\\playerinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\movementstrategies\\diagonalmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\movementstrategies\\diagonalmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\basestates\\abstractstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\basestates\\abstractstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\enum\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\enum\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\enemyplane2sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\enemyplane2sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\enemyplane1sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\enemyplane1sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\treesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\treesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\treessprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\treessprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\managers\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\managers\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\vliegtuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\vliegtuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\interfaces\\icollidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\interfaces\\icollidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\interfaces\\iplayerinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\interfaces\\iplayerinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\system\\controllerplayer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,28 +123,8 @@
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\managers\\entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\basestates\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\basestates\\gameoverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\basestates\\abstractstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\basestates\\abstractstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\system\\inputs\\playerinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\system\\inputs\\playerinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\gamestates\\twoplayerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\gamestates\\twoplayerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\enum\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\enum\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\factorys\\enemys\\bluehousefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,10 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\assetnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\assetnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\movementstrategies\\diagonalmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\obstacles\\movementstrategies\\diagonalmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\obstacles\\movementstrategies\\fasthorizontalmovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,10 +187,6 @@
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\graphics\\spritetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\factorys\\playerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\factorys\\playerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\factorys\\enemys\\enemyplane1factorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\factorys\\enemys\\enemyplane1factorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -191,24 +207,12 @@
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\system\\controllerplayer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\entities\\interfaces\\igameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\entities\\interfaces\\igameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\content\\sprites\\background.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\content\\sprites\\background.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\content\\fonts\\game-font.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\content\\fonts\\game-font.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\gamestates\\scorebordstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\gamestates\\scorebordstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\gamecore\\states\\gamestates\\solostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|solutionrelative:code\\gamecore\\states\\gamestates\\solostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FF2797-D8B2-47DB-A3AC-69CE8DEB448F}|Code\\Code.csproj|c:\\users\\yanng\\flygame\\eindopdracht_yanngeman_flyergame\\code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -253,7 +257,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 57,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -265,124 +269,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EnemySprite.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\Base\\EnemySprite.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\Base\\EnemySprite.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\Base\\EnemySprite.cs*",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\Base\\EnemySprite.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "playerSprite.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Sprites\\playerSprite.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Sprites\\playerSprite.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Sprites\\playerSprite.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Sprites\\playerSprite.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T10:16:01.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BlueHouseSprite.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\BlueHouseSprite.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\BlueHouseSprite.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\BlueHouseSprite.cs*",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\BlueHouseSprite.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T06:46:38.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TreesSprite.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\TreesSprite.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\TreesSprite.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\TreesSprite.cs*",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\TreesSprite.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T06:48:29.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayState.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\PlayState.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\States\\BaseStates\\PlayState.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\PlayState.cs",
-              "RelativeToolTip": "Code\\GameCore\\States\\BaseStates\\PlayState.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswCAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T10:35:09.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Sprite.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Sprites\\Sprite.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Sprites\\Sprite.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Sprites\\Sprite.cs*",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Sprites\\Sprite.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwB8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T10:01:45.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnemyPlane1Sprite.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\EnemyPlane1Sprite.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\EnemyPlane1Sprite.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\EnemyPlane1Sprite.cs*",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\EnemyPlane1Sprite.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T06:47:39.344Z",
+              "WhenOpened": "2026-05-25T10:00:51.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EnemyPlane2Sprite.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\EnemyPlane2Sprite.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\EnemyPlane2Sprite.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\EnemyPlane2Sprite.cs*",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\EnemyPlane2Sprite.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABvAAAAAAAAAA==",
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\GameContext.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\GameContext.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\GameContext.cs*",
+              "RelativeToolTip": "Code\\GameCore\\GameContext.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T06:47:58.744Z",
+              "WhenOpened": "2026-05-24T13:32:03.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RedHouseSprite.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\RedHouseSprite.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\RedHouseSprite.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\RedHouseSprite.cs*",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\RedHouseSprite.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IPlayerInputService.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\IPlayerInputService.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Interfaces\\IPlayerInputService.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\IPlayerInputService.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Interfaces\\IPlayerInputService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T06:47:06.802Z",
+              "WhenOpened": "2026-05-25T10:09:29.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TreeSprite.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\TreeSprite.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\TreeSprite.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\TreeSprite.cs*",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\TreeSprite.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "EnemySprite.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\Base\\EnemySprite.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\Base\\EnemySprite.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\Base\\EnemySprite.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\Base\\EnemySprite.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T06:48:15.404Z",
+              "WhenOpened": "2026-05-25T10:16:01.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoloState.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\SoloState.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\States\\GameStates\\SoloState.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\SoloState.cs",
+              "RelativeToolTip": "Code\\GameCore\\States\\GameStates\\SoloState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:37:50.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "PauzeState.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\PauzeState.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\States\\BaseStates\\PauzeState.cs",
@@ -390,38 +341,24 @@
               "RelativeToolTip": "Code\\GameCore\\States\\BaseStates\\PauzeState.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwCEAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:37:33.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T10:37:33.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ManuState.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\ManuState.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\States\\BaseStates\\ManuState.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\ManuState.cs",
-              "RelativeToolTip": "Code\\GameCore\\States\\BaseStates\\ManuState.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "PlayerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\PlayerFactory.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Factorys\\PlayerFactory.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\PlayerFactory.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Factorys\\PlayerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:34:51.163Z",
+              "WhenOpened": "2026-05-25T10:19:58.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "playerSprite.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Sprites\\playerSprite.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Sprites\\playerSprite.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Sprites\\playerSprite.cs",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Sprites\\playerSprite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T10:00:51.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "Vliegtuig.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Vliegtuig.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Vliegtuig.cs",
@@ -429,73 +366,141 @@
               "RelativeToolTip": "Code\\GameCore\\Entities\\Vliegtuig.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAtwFoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:29:30.864Z",
+              "WhenOpened": "2026-05-22T10:29:30.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManuState.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\ManuState.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\States\\BaseStates\\ManuState.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\ManuState.cs",
+              "RelativeToolTip": "Code\\GameCore\\States\\BaseStates\\ManuState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:34:51.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayState.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\PlayState.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\States\\BaseStates\\PlayState.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\PlayState.cs",
+              "RelativeToolTip": "Code\\GameCore\\States\\BaseStates\\PlayState.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:35:09.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwoPlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\TwoPlayerState.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\States\\GameStates\\TwoPlayerState.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\TwoPlayerState.cs",
+              "RelativeToolTip": "Code\\GameCore\\States\\GameStates\\TwoPlayerState.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:38:22.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICollidable.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\ICollidable.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Interfaces\\ICollidable.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\ICollidable.cs",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Interfaces\\ICollidable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ScoreBordState.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\ScoreBordState.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\States\\GameStates\\ScoreBordState.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\ScoreBordState.cs",
+              "RelativeToolTip": "Code\\GameCore\\States\\GameStates\\ScoreBordState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:21:45.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IPlayerInputService.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\IPlayerInputService.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Interfaces\\IPlayerInputService.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\IPlayerInputService.cs",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Interfaces\\IPlayerInputService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T10:09:29.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GameContext.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\GameContext.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\GameContext.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\GameContext.cs",
-              "RelativeToolTip": "Code\\GameCore\\GameContext.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T13:32:03.887Z",
+              "WhenOpened": "2026-05-22T10:36:49.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ObstacleManager.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Managers\\ObstacleManager.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Managers\\ObstacleManager.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Managers\\ObstacleManager.cs",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Managers\\ObstacleManager.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAMwBoAAAAgAAAAAAAAAA==",
+              "Title": "RedHouseSprite.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\RedHouseSprite.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\RedHouseSprite.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\RedHouseSprite.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\RedHouseSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:23:48.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T06:47:06.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGameEntity.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\IGameEntity.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Interfaces\\IGameEntity.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\IGameEntity.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Interfaces\\IGameEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:20:50.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Sprites\\Sprite.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Sprites\\Sprite.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Sprites\\Sprite.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Sprites\\Sprite.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:01:45.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlueHouseSprite.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\BlueHouseSprite.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\BlueHouseSprite.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\BlueHouseSprite.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\BlueHouseSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:46:38.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameOverState.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\GameOverState.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\States\\BaseStates\\GameOverState.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\GameOverState.cs",
+              "RelativeToolTip": "Code\\GameCore\\States\\BaseStates\\GameOverState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:35:32.264Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "ControllerPlayer2.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\ControllerPlayer2.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\System\\ControllerPlayer2.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\ControllerPlayer2.cs",
-              "RelativeToolTip": "Code\\GameCore\\System\\ControllerPlayer2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "PlayerInputServicePlayer1.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\inputs\\PlayerInputServicePlayer1.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\System\\inputs\\PlayerInputServicePlayer1.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\inputs\\PlayerInputServicePlayer1.cs",
+              "RelativeToolTip": "Code\\GameCore\\System\\inputs\\PlayerInputServicePlayer1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T14:40:59.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T10:30:19.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DiagonalMovementStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\DiagonalMovementStrategy.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\DiagonalMovementStrategy.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\DiagonalMovementStrategy.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\DiagonalMovementStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:52:14.147Z"
             },
             {
               "$type": "Document",
@@ -512,67 +517,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "EntityManager.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Managers\\EntityManager.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Managers\\EntityManager.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Managers\\EntityManager.cs",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Managers\\EntityManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:18:37.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GameOverState.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\GameOverState.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\States\\BaseStates\\GameOverState.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\BaseStates\\GameOverState.cs",
-              "RelativeToolTip": "Code\\GameCore\\States\\BaseStates\\GameOverState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:35:32.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "PlayerInputService.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\inputs\\PlayerInputService.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\System\\inputs\\PlayerInputService.cs",
               "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\inputs\\PlayerInputService.cs",
               "RelativeToolTip": "Code\\GameCore\\System\\inputs\\PlayerInputService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T10:11:05.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Game1.cs",
-              "RelativeDocumentMoniker": "Code\\Game1.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Game1.cs",
-              "RelativeToolTip": "Code\\Game1.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwBAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:10:55.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TwoPlayerState.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\TwoPlayerState.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\States\\GameStates\\TwoPlayerState.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\TwoPlayerState.cs",
-              "RelativeToolTip": "Code\\GameCore\\States\\GameStates\\TwoPlayerState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:38:22.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "GameState.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\enum\\GameState.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\States\\enum\\GameState.cs",
@@ -584,7 +540,115 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnemyPlane2Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\EnemyPlane2Sprite.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\EnemyPlane2Sprite.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\EnemyPlane2Sprite.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\EnemyPlane2Sprite.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:47:58.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnemyPlane1Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\EnemyPlane1Sprite.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\EnemyPlane1Sprite.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\EnemyPlane1Sprite.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\EnemyPlane1Sprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:47:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TreeSprite.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\TreeSprite.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\TreeSprite.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\TreeSprite.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\TreeSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:48:15.404Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "TreesSprite.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\TreesSprite.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\TreesSprite.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\TreesSprite.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\TreesSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:48:29.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICollidable.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\ICollidable.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Interfaces\\ICollidable.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\ICollidable.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Interfaces\\ICollidable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:21:45.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ObstacleManager.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Managers\\ObstacleManager.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Managers\\ObstacleManager.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Managers\\ObstacleManager.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Managers\\ObstacleManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:23:48.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ControllerPlayer2.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\ControllerPlayer2.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\System\\ControllerPlayer2.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\ControllerPlayer2.cs",
+              "RelativeToolTip": "Code\\GameCore\\System\\ControllerPlayer2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T14:40:59.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EntityManager.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Managers\\EntityManager.cs",
+              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Managers\\EntityManager.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Managers\\EntityManager.cs",
+              "RelativeToolTip": "Code\\GameCore\\Entities\\Managers\\EntityManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:18:37.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Game1.cs",
+              "RelativeDocumentMoniker": "Code\\Game1.cs",
+              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Game1.cs",
+              "RelativeToolTip": "Code\\Game1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T10:10:55.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "BlueHouseFactory.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\Enemys\\BlueHouseFactory.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Factorys\\Enemys\\BlueHouseFactory.cs",
@@ -596,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "AssetNames.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\AssetNames.cs",
               "RelativeDocumentMoniker": "Code\\AssetNames.cs",
@@ -608,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Const.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Const.cs",
               "RelativeDocumentMoniker": "Code\\Const.cs",
@@ -620,19 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DiagonalMovementStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\DiagonalMovementStrategy.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\DiagonalMovementStrategy.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\DiagonalMovementStrategy.cs",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\DiagonalMovementStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T06:52:14.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "FastHorizontalMovementStrategy.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\FastHorizontalMovementStrategy.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\FastHorizontalMovementStrategy.cs",
@@ -644,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "enemy_plane2.png -  [English (United Kingdom)] - PNG [20x17, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Content\\Sprites\\enemy_plane2.png",
               "RelativeDocumentMoniker": "Code\\Content\\Sprites\\enemy_plane2.png",
@@ -656,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "enemy_plane1.png -  [English (United Kingdom)] - PNG [32x24, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Content\\Sprites\\enemy_plane1.png",
               "RelativeDocumentMoniker": "Code\\Content\\Sprites\\enemy_plane1.png",
@@ -668,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "house_blue.png -  [English (United Kingdom)] - PNG [16x14, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Content\\Sprites\\house_blue.png",
               "RelativeDocumentMoniker": "Code\\Content\\Sprites\\house_blue.png",
@@ -680,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "EnemyPlane2Factorys.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\Enemys\\EnemyPlane2Factorys.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Factorys\\Enemys\\EnemyPlane2Factorys.cs",
@@ -692,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "HorizontalMovementStrategy.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\HorizontalMovementStrategy.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\HorizontalMovementStrategy.cs",
@@ -704,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "IMovementStrategy.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\IMovementStrategy.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Obstacles\\MovementStrategies\\IMovementStrategy.cs",
@@ -716,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "Sprite.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Graphics\\Sprite.cs",
               "RelativeDocumentMoniker": "Code\\Graphics\\Sprite.cs",
@@ -728,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "ControllerManager.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\ControllerManager.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\System\\ControllerManager.cs",
@@ -740,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "app.manifest",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\app.manifest",
               "RelativeDocumentMoniker": "Code\\app.manifest",
@@ -752,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "SpriteText.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Graphics\\SpriteText.cs",
               "RelativeDocumentMoniker": "Code\\Graphics\\SpriteText.cs",
@@ -764,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "TreesFactory.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\Enemys\\TreesFactory.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Factorys\\Enemys\\TreesFactory.cs",
@@ -776,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "TreeFactory.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\Enemys\\TreeFactory.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Factorys\\Enemys\\TreeFactory.cs",
@@ -788,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "GraphicsFacade.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Graphics\\GraphicsFacade.cs",
               "RelativeDocumentMoniker": "Code\\Graphics\\GraphicsFacade.cs",
@@ -800,19 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "PlayerFactory.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\PlayerFactory.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Factorys\\PlayerFactory.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\PlayerFactory.cs",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Factorys\\PlayerFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T10:19:58.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "RedHouseFactory.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\Enemys\\RedHouseFactory.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Factorys\\Enemys\\RedHouseFactory.cs",
@@ -824,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "EnemyPlane1Factorys.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Factorys\\Enemys\\EnemyPlane1Factorys.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Factorys\\Enemys\\EnemyPlane1Factorys.cs",
@@ -836,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 50,
               "Title": "ControllerPlayer1.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\System\\ControllerPlayer1.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\System\\ControllerPlayer1.cs",
@@ -848,19 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "IGameEntity.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\IGameEntity.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Interfaces\\IGameEntity.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Interfaces\\IGameEntity.cs",
-              "RelativeToolTip": "Code\\GameCore\\Entities\\Interfaces\\IGameEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:20:50.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "game-font.spritefont",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Content\\Fonts\\game-font.spritefont",
               "RelativeDocumentMoniker": "Code\\Content\\Fonts\\game-font.spritefont",
@@ -872,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "background.png -  [English (United Kingdom)] - PNG [1020x2323, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Content\\Sprites\\background.png",
               "RelativeDocumentMoniker": "Code\\Content\\Sprites\\background.png",
@@ -884,31 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "ScoreBordState.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\ScoreBordState.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\States\\GameStates\\ScoreBordState.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\ScoreBordState.cs",
-              "RelativeToolTip": "Code\\GameCore\\States\\GameStates\\ScoreBordState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:36:49.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "SoloState.cs",
-              "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\SoloState.cs",
-              "RelativeDocumentMoniker": "Code\\GameCore\\States\\GameStates\\SoloState.cs",
-              "ToolTip": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\States\\GameStates\\SoloState.cs",
-              "RelativeToolTip": "Code\\GameCore\\States\\GameStates\\SoloState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T10:37:50.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Program.cs",
               "RelativeDocumentMoniker": "Code\\Program.cs",
@@ -920,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "Icon.ico -  [English (United Kingdom)] - Icon [256x256, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Icon.ico",
               "RelativeDocumentMoniker": "Code\\Icon.ico",
@@ -932,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "SpriteBatchExtensions.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\GameCore\\Entities\\Extensions\\SpriteBatchExtensions.cs",
               "RelativeDocumentMoniker": "Code\\GameCore\\Entities\\Extensions\\SpriteBatchExtensions.cs",
@@ -944,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "MonoGame.Content.Builder.Task.targets",
               "DocumentMoniker": "C:\\Users\\yanng\\.nuget\\packages\\monogame.content.builder.task\\3.8.4.1\\build\\MonoGame.Content.Builder.Task.targets",
               "RelativeDocumentMoniker": "..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.4.1\\build\\MonoGame.Content.Builder.Task.targets",
@@ -956,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "tree.png -  [English (United Kingdom)] - PNG [12x14, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Content\\Sprites\\tree.png",
               "RelativeDocumentMoniker": "Code\\Content\\Sprites\\tree.png",
@@ -968,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "trees.png -  [English (United Kingdom)] - PNG [16x16, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Content\\Sprites\\trees.png",
               "RelativeDocumentMoniker": "Code\\Content\\Sprites\\trees.png",
@@ -980,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "plane.png -  [English (United Kingdom)] - PNG [24x17, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Content\\Sprites\\plane.png",
               "RelativeDocumentMoniker": "Code\\Content\\Sprites\\plane.png",
@@ -992,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "house_red.png -  [English (United Kingdom)] - PNG [16x14, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Content\\Sprites\\house_red.png",
               "RelativeDocumentMoniker": "Code\\Content\\Sprites\\house_red.png",
@@ -1004,7 +1008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "GraphicsFacadeNotInitializedException.cs",
               "DocumentMoniker": "C:\\Users\\yanng\\flygame\\EindOpdracht_YannGeman_FlyerGame\\Code\\Exceptions\\GraphicsFacadeNotInitializedException.cs",
               "RelativeDocumentMoniker": "Code\\Exceptions\\GraphicsFacadeNotInitializedException.cs",

@@ -19,9 +19,9 @@ namespace Code.GameCore.States.BaseStates
         public override void Update(GameTime gameTime)
         {
             if (IsKeyDown(Keys.NumPad1))
-                Context.ChangeState(new PlayState(Context));
+                Context.ChangeState(new SoloState(Context));
             if (IsKeyDown(Keys.NumPad2))
-                Context.ChangeState(new PlayState(Context));
+                Context.ChangeState(new TwoPlayerState(Context));
             if (IsKeyDown(Keys.NumPad3))
                 Context.ChangeState(new ScoreBordState(Context));
         }

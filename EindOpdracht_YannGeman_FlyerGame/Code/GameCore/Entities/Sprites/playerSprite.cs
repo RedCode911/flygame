@@ -14,12 +14,16 @@ namespace Code.GameCore.Entities.Sprites
     {
         private IPlayerInputService _inputService;
 
+
+
         public PlayerSprite(Texture2D texture, Vector2 position, float speed, float scale,
                             IPlayerInputService inputService)
             : base(texture, position, speed, scale)
         {
             _inputService = inputService;
+
         }
+
 
         public override void Update()
         {
@@ -45,8 +49,6 @@ namespace Code.GameCore.Entities.Sprites
                     24,
                     17
                 );
-
-
                 return box;
             }
         }

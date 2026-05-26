@@ -37,7 +37,6 @@ namespace Code.GameCore.States.BaseStates
         {
             UpdateBackgroundPosition();
 
-            Context.Player.Update();
 
             foreach (var enemy in Context.Enemies)
                 enemy.Update();

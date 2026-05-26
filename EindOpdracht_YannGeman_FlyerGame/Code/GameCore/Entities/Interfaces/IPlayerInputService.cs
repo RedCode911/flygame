@@ -12,5 +12,7 @@ namespace Code.GameCore.Entities.Interfaces
         public bool ShouldGoLeft();
         public bool ShouldGoUp();
         public bool ShouldGoDown();
+
+        
     }
 }

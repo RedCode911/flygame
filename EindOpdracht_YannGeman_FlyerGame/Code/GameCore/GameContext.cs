@@ -21,6 +21,8 @@ namespace Code.GameCore
 
         public PlayerSprite Player { get; private set; }
 
+        public PlayerSprite Player1 { get; private set; }
+
         public List<EnemySprite> Enemies { get; set; }
 
         public EntityManager AssetsManager { get; }
@@ -35,6 +37,9 @@ namespace Code.GameCore
             AssetsManager = new EntityManager(game);
             Player = PlayerFactory.CreatePlayerInVerticalCenter(AssetsManager.GetTexture(AssetNames.PLAYER_TEXTURE), Const.PLAYER_SPEED,
                 Const.PLAYER_SCALE, new PlayerInputService());
+
+            Player1 = PlayerFactory.CreatePlayerInVerticalCenter(AssetsManager.GetTexture(AssetNames.PLAYER_TEXTURE), Const.PLAYER_SPEED,
+                Const.PLAYER_SCALE, new PlayerInputServicePlayer1());
 
             CurrentState = new ManuState(this);
         }
