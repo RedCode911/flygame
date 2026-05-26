@@ -1,4 +1,5 @@
 ﻿using Code.GameCore.Entities.Sprites;
+using Code.GameCore.States.BaseStates;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System;
@@ -15,5 +16,20 @@ namespace Code.GameCore.Entities.Obstacles.Base
             : base(texture, position, speed, scale)
         {
         }
+
+        
+        public void CheckCollisions(GameContext vliegtuig)
+        {
+            Rectangle obstacleCollisionBox = CollisionBox;
+            Rectangle skierCollisionBox = vliegtuig.Player.CollisionBox;
+
+            if (obstacleCollisionBox.Intersects(skierCollisionBox))
+                if (obstacleCollisionBox.Intersects(skierCollisionBox))
+                {
+                    vliegtuig.ChangeState(new GameOverState(vliegtuig));
+                }
+
+        }
     }
 }
+

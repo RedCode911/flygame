@@ -17,16 +17,23 @@ namespace Code.GameCore.Entities.Managers
     {
         private readonly List<EnemySprite> _enemies;
         private readonly List<Texture2D> _enemyTexture;
+        private GameContext _vliegtuig;
         private double _elapsedTimeInMs1, _elapsedTimeInMs2, _elapsedTimeInMs3, _elapsedTimeInMs4, _elapsedTimeInMs5, _elapsedTimeInMs6;
 
-        public ObstacleManager(List<EnemySprite> enemies, List<Texture2D> enemyTexture)
+        public ObstacleManager(List<EnemySprite> enemies, List<Texture2D> enemyTexture,  GameContext context)
         {
             _enemies = enemies;
             _enemyTexture = enemyTexture;
+            _vliegtuig = context;
         }
 
         public void Update(GameTime gameTime)
         {
+            foreach (var enemy in _enemies)
+            {
+                enemy.CheckCollisions(_vliegtuig);
+            }
+
             _elapsedTimeInMs1 += gameTime.ElapsedGameTime.TotalMilliseconds;
             _elapsedTimeInMs2 += gameTime.ElapsedGameTime.TotalMilliseconds;
             _elapsedTimeInMs3 += gameTime.ElapsedGameTime.TotalMilliseconds;

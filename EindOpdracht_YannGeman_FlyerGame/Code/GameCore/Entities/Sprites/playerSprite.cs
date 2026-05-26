@@ -35,5 +35,20 @@ namespace Code.GameCore.Entities.Sprites
             if (_inputService.ShouldGoDown())
                 UpdatePositionY(+Speed);
         }
+        public Rectangle CollisionBox
+        {
+            get
+            {
+                Rectangle box = new Rectangle(
+                    (int)Math.Round(Position.X),
+                    (int)Math.Round(Position.Y),
+                    24,
+                    17
+                );
+
+
+                return box;
+            }
+        }
     }
 }

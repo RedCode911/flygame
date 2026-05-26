@@ -30,7 +30,7 @@ namespace Code.GameCore.States.BaseStates
 
             _enemySpawner = new ObstacleManager(
                 context.Enemies,
-                enemyTextures);
+                enemyTextures, context);
         }
 
         public override void Update(GameTime gameTime)

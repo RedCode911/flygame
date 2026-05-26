@@ -22,7 +22,14 @@ namespace Code.GameCore.Entities.Obstacles
             _movementStrategy = movementStrategy;
             
         }
-
+        public override Rectangle CollisionBox
+        {
+            get
+            {
+                Rectangle box = new Rectangle((int)Math.Round(Position.X), (int)Math.Round(Position.Y), 32, 24);
+                return box;
+            }
+        }
         public override void Update()
         {
             _movementStrategy.Update(this);

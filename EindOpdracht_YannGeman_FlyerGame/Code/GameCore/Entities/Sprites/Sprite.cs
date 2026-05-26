@@ -29,6 +29,7 @@ namespace Code.GameCore.Entities.Sprites
         public virtual void Update()
         {
         }
+        public virtual Rectangle CollisionBox { get; }
 
         public virtual void Draw(SpriteBatch spriteBatch)
         {
