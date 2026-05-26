@@ -29,12 +29,10 @@ namespace Code.GameCore
 
         public GameContext(Game game)
         {
-            BackgroundPosition = new Vector2(0, 0);
+            BackgroundPosition = new Vector2(0, -800);
             Enemies = new List<EnemySprite>();
 
             AssetsManager = new EntityManager(game);
-
-            // Dit moet na LoadContent want we hebben de texture nodig
             Player = PlayerFactory.CreatePlayerInVerticalCenter(AssetsManager.GetTexture(AssetNames.PLAYER_TEXTURE), Const.PLAYER_SPEED,
                 Const.PLAYER_SCALE, new PlayerInputService());
 

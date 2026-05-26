@@ -13,6 +13,7 @@ namespace Code.GameCore.Entities.Obstacles
     internal class EnemyPlane2Sprite : EnemySprite
     {
         private readonly IMovementStrategy _movementStrategy;
+        public bool Left { get; set; }
 
         public EnemyPlane2Sprite(Texture2D texture, Vector2 position, float speed,
                            IMovementStrategy movementStrategy, float scale = 1)

@@ -13,12 +13,14 @@ namespace Code.GameCore.Entities.Obstacles
     public class EnemyPlane1Sprite : EnemySprite
     {
         private readonly IMovementStrategy _movementStrategy;
+        public bool Left { get;  set; }
 
         public EnemyPlane1Sprite(Texture2D texture, Vector2 position, float speed,
                            IMovementStrategy movementStrategy, float scale = 1)
             : base(texture, position, speed, scale)
         {
             _movementStrategy = movementStrategy;
+            
         }
 
         public override void Update()

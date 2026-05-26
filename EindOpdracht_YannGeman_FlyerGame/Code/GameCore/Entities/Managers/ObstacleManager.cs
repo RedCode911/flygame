@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace Code.GameCore.Entities.Managers
 {
-    public class ObstacleManager 
+    public class ObstacleManager
     {
         private readonly List<EnemySprite> _enemies;
         private readonly List<Texture2D> _enemyTexture;
@@ -34,72 +34,84 @@ namespace Code.GameCore.Entities.Managers
             _elapsedTimeInMs5 += gameTime.ElapsedGameTime.TotalMilliseconds;
             _elapsedTimeInMs6 += gameTime.ElapsedGameTime.TotalMilliseconds;
 
-            if (_elapsedTimeInMs1 >= Const.BLUEHOUSE_SPAWN_TIME_IN_MS)
+            if (_elapsedTimeInMs1 >= GetRandomSpwanTime(Const.HOUSE_SPAWN_MIN_TIME_IN_MS, Const.HOUSE_SPAWN_MAX_TIME_IN_MS))
             {
                 _enemies.Add(BlueHouseFactory.CreateBig(
                     _enemyTexture[2],
-                    GraphicsFacade.GetWindowWidth(),
-                    GraphicsFacade.GetWindowVerticalCenter(),
+                    GetRandomXPosition(),
+                    0,
                     Const.BACKGROUND_SPEED,
                     Const.BLUEHOUSE_BASE_SCALE));
 
                 _elapsedTimeInMs1 = 0;
             }
-            if (_elapsedTimeInMs2 >= Const.REDHOUSE_SPAWN_TIME_IN_MS)
+            if (_elapsedTimeInMs2 >= GetRandomSpwanTime(Const.HOUSE_SPAWN_MIN_TIME_IN_MS, Const.HOUSE_SPAWN_MAX_TIME_IN_MS))
             {
                 _enemies.Add(RedHouseFactory.CreateBig(
                     _enemyTexture[3],
-                    GraphicsFacade.GetWindowWidth(),
-                    GraphicsFacade.GetWindowVerticalCenter(),
+                    GetRandomXPosition(),
+                    0,
                     Const.REDHOUSE_SPEED,
                     Const.REDHOUSE_BASE_SCALE));
 
                 _elapsedTimeInMs2 = 0;
             }
-            if (_elapsedTimeInMs3 >= Const.TREES_SPAWN_TIME_IN_MS)
+            if (_elapsedTimeInMs3 >= GetRandomSpwanTime(Const.TREE_SPAWN_MIN_TIME_IN_MS, Const.TREE_SPAWN_MAX_TIME_IN_MS))
             {
                 _enemies.Add(TreesFactory.CreateBig(
                     _enemyTexture[5],
-                    GraphicsFacade.GetWindowWidth(),
-                    GraphicsFacade.GetWindowVerticalCenter(),
+                    GetRandomXPosition(),
+                    0,
                     Const.TREES_SPEED,
                     Const.TREES_BASE_SCALE));
 
                 _elapsedTimeInMs3 = 0;
             }
-            if (_elapsedTimeInMs4 >= Const.TREE_SPAWN_TIME_IN_MS)
+            if (_elapsedTimeInMs4 >= GetRandomSpwanTime(Const.TREE_SPAWN_MIN_TIME_IN_MS, Const.TREE_SPAWN_MAX_TIME_IN_MS))
             {
                 _enemies.Add(TreeFactory.CreateBig(
                     _enemyTexture[4],
-                    GraphicsFacade.GetWindowWidth(),
-                    GraphicsFacade.GetWindowVerticalCenter(),
+                    GetRandomXPosition(),
+                    0,
                     Const.TREE_SPEED,
                     Const.TREE_BASE_SCALE));
 
                 _elapsedTimeInMs4 = 0;
             }
-            if (_elapsedTimeInMs5 >= Const.ENEMYPLANE1_SPAWN_TIME_IN_MS)
+            if (_elapsedTimeInMs5 >= GetRandomSpwanTime(Const.ENEMYPLANE_SPAWN_MIN_TIME_IN_MS, Const.ENEMYPLANE_SPAWN_MAX_TIME_IN_MS))
             {
                 _enemies.Add(EnemyPlane1Factorys.CreateBig(
                     _enemyTexture[0],
-                    GraphicsFacade.GetWindowWidth(),
-                    GraphicsFacade.GetWindowVerticalCenter(),
+                    GetRandomXPosition(),
+                    0,
                     Const.ENEMYPLANE1_SPEED,
                     Const.ENEMYPLANE1_BASE_SCALE));
 
                 _elapsedTimeInMs5 = 0;
             }
-            if (_elapsedTimeInMs6 >= Const.ENEMYPLANE2_SPAWN_TIME_IN_MS)
+            if (_elapsedTimeInMs6 >= GetRandomSpwanTime(Const.ENEMYPLANE_SPAWN_MIN_TIME_IN_MS, Const.ENEMYPLANE_SPAWN_MAX_TIME_IN_MS))
             {
                 _enemies.Add(EnemyPlane2Factorys.CreateBig(
                     _enemyTexture[1],
-                    GraphicsFacade.GetWindowWidth(),
-                    GraphicsFacade.GetWindowVerticalCenter(),
+                    GetRandomXPosition(),
+                    0,
                     Const.ENEMYPLANE2_SPEED,
                     Const.ENEMYPLANE2_BASE_SCALE));
 
                 _elapsedTimeInMs6 = 0;
             }
+        }
+
+        private int GetRandomSpwanTime(int min, int max)
+        {
+            Random random = new Random();
+            return random.Next(min, max);
+        }
+
+        private int GetRandomXPosition()
+        {
+            Random random = new Random();
+            return random.Next(10, (int)GraphicsFacade.GetWindowWidth() - 10);
         }
     }
 }

@@ -12,27 +12,27 @@ namespace Code.GameCore.Entities.Obstacles.MovementStrategies
         {
             if (shark is BlueHouseSprite s)
             {
-                s.UpdatePositionX(-1.25F * s.Speed);
+                s.UpdatePositionY( s.Speed);
             }
             if (shark is RedHouseSprite s1)
             {
-                s1.UpdatePositionX(-1.25F * s1.Speed);
+                s1.UpdatePositionY( s1.Speed);
             }
             if (shark is EnemyPlane1Sprite s2)
             {
-                s2.UpdatePositionX(-1.25F * s2.Speed);
+                s2.UpdatePositionY(1.25F * s2.Speed);
             }
             if (shark is EnemyPlane2Sprite s3)
             {
-                s3.UpdatePositionX(-1.25F * s3.Speed );
+                s3.UpdatePositionY(1.25F * s3.Speed );
             }
             if (shark is TreeSprite s4)
             {
-                s4.UpdatePositionX(-1.25F * s4.Speed);
+                s4.UpdatePositionY( s4.Speed);
             }
             if (shark is TreesSprite s5)
             {
-                s5.UpdatePositionX(-1.25F * s5.Speed);
+                s5.UpdatePositionY(s5.Speed);
             }
         }
     }

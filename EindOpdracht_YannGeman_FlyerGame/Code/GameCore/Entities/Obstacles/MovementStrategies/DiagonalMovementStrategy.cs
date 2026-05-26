@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Code.Graphics;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,27 +13,49 @@ namespace Code.GameCore.Entities.Obstacles.MovementStrategies
         {
             if (shark is BlueHouseSprite s)
             {
-                s.UpdatePosition(-s.Speed, s.Speed * 0.25F);
+                s.UpdatePosition(0, s.Speed );
             }
             if (shark is RedHouseSprite s1)
             {
-                s1.UpdatePosition(-s1.Speed, s1.Speed * 0.25F);
+                s1.UpdatePosition(0, s1.Speed );
             }
             if (shark is EnemyPlane1Sprite s2)
             {
-                s2.UpdatePosition(-s2.Speed, s2.Speed * 0.25F);
+                if (s2.Left)
+                {
+                    if (s2.Position.X <= 15)
+                        s2.Left = false;  
+                    s2.UpdatePosition(-s2.Speed * 0.25F, s2.Speed);
+                } 
+                if (!s2.Left)
+                {
+                    if (s2.Position.X >= GraphicsFacade.GetWindowWidth()-30)
+                        s2.Left = true;
+                    s2.UpdatePosition(s2.Speed * 0.25F, s2.Speed);
+                }  
             }
             if (shark is EnemyPlane2Sprite s3)
             {
-                s3.UpdatePosition(-s3.Speed, s3.Speed * 0.25F);
+                if (s3.Left)
+                {
+                    if (s3.Position.X <= 15)
+                        s3.Left = false;
+                    s3.UpdatePosition(-s3.Speed * 0.25F, s3.Speed);
+                }
+                if (!s3.Left)
+                {
+                    if (s3.Position.X >= GraphicsFacade.GetWindowWidth()-15)
+                        s3.Left = true;
+                    s3.UpdatePosition(s3.Speed * 0.25F, s3.Speed);
+                }     
             }
             if (shark is TreeSprite s4)
             {
-                s4.UpdatePosition(-s4.Speed, s4.Speed * 0.25F);
+                s4.UpdatePosition(0  , s4.Speed );
             }
             if (shark is TreesSprite s5)
             {
-                s5.UpdatePosition(-s5.Speed, s5.Speed * 0.25F);
+                s5.UpdatePosition(0, s5.Speed );
             }
         }
     }
