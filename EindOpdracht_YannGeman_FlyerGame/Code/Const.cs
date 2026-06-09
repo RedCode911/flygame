@@ -19,23 +19,14 @@ namespace Code
         public const int PLAYER_SPEED = 5;
         public const float PLAYER_SCALE = 1.5F;
 
-        public const int BLUEHOUSE_SPEED = 2;
-        public const float BLUEHOUSE_BASE_SCALE = 0.75F;
-
-        public const int REDHOUSE_SPEED = 2;
-        public const float REDHOUSE_BASE_SCALE = 0.75F;
+        public const int HOUSE_SPEED = 2;
+        public const float HOUSE_BASE_SCALE = 0.75F;
 
         public const int TREE_SPEED = 2;
         public const float TREE_BASE_SCALE = 0.75F;
 
-        public const int TREES_SPEED = 2;
-        public const float TREES_BASE_SCALE = 0.75F;
-
-        public const int ENEMYPLANE1_SPEED = 3;
-        public const float ENEMYPLANE1_BASE_SCALE = 0.75F;
-
-        public const int ENEMYPLANE2_SPEED = 3;
-        public const float ENEMYPLANE2_BASE_SCALE = 0.75F;
+        public const int ENEMYPLANE_SPEED = 3;
+        public const float ENEMYPLANE_BASE_SCALE = 0.75F;
 
         public const int BACKGROUND_SPEED = 2;
         public const float BACKGROUND_SCALE = 0.75F;

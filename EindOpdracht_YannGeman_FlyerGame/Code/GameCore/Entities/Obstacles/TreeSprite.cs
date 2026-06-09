@@ -24,7 +24,7 @@ namespace Code.GameCore.Entities.Obstacles
         {
             get
             {
-                Rectangle box = new Rectangle((int)Math.Round(Position.X), (int)Math.Round(Position.Y), 12, 14);
+                Rectangle box = new Rectangle((int)Math.Round(Position.X), (int)Math.Round(Position.Y), (int)(Texture.Width * Scale), (int)(Texture.Height * Scale));
                 return box;
             }
         }

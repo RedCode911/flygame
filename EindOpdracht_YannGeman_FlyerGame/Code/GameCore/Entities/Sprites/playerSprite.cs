@@ -14,8 +14,6 @@ namespace Code.GameCore.Entities.Sprites
     {
         private IPlayerInputService _inputService;
 
-
-
         public PlayerSprite(Texture2D texture, Vector2 position, float speed, float scale,
                             IPlayerInputService inputService)
             : base(texture, position, speed, scale)
@@ -23,7 +21,6 @@ namespace Code.GameCore.Entities.Sprites
             _inputService = inputService;
 
         }
-
 
         public override void Update()
         {
@@ -39,6 +36,7 @@ namespace Code.GameCore.Entities.Sprites
             if (_inputService.ShouldGoDown())
                 UpdatePositionY(+Speed);
         }
+
         public Rectangle CollisionBox
         {
             get
@@ -46,8 +44,8 @@ namespace Code.GameCore.Entities.Sprites
                 Rectangle box = new Rectangle(
                     (int)Math.Round(Position.X),
                     (int)Math.Round(Position.Y),
-                    24,
-                    17
+                    Texture.Width * (int)Scale,
+                    Texture.Height * (int)Scale
                 );
                 return box;
             }

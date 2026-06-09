@@ -84,8 +84,6 @@ namespace Code.GameCore.Entities
                     BREETE_SKIER,
                     LENGT_SKIER
                 );
-
-
                 return box;
             }
         }

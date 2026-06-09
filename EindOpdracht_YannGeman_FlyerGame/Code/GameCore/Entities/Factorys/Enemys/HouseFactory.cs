@@ -10,24 +10,24 @@ using System.Threading.Tasks;
 
 namespace Code.GameCore.Entities.Factorys.Enemys
 {
-    internal class EnemyPlane2Factorys
+    public class HouseFactory
     {
-        public static EnemyPlane2Sprite CreateBig(Texture2D texture, float x, float y, float speed, float baseScale)
+        public static HouseSprite CreateBig(Texture2D texture, float x, float y, float speed, float baseScale)
         {
             return Create(texture, new Vector2(x, y), speed, baseScale * 1.5F);
         }
 
-        public static EnemyPlane2Sprite CreateSmall(Texture2D texture, float x, float y, float speed, float baseScale)
+        public static HouseSprite CreateSmall(Texture2D texture, float x, float y, float speed, float baseScale)
         {
             return Create(texture, new Vector2(x, y), speed, baseScale * 0.75F);
         }
 
-        public static EnemyPlane2Sprite Create(Texture2D texture, float x, float y, float speed, float scale)
+        public static HouseSprite Create(Texture2D texture, float x, float y, float speed, float scale)
         {
             return Create(texture, new Vector2(x, y), speed, scale);
         }
 
-        public static EnemyPlane2Sprite Create(Texture2D texture, Vector2 position, float speed, float scale)
+        public static HouseSprite Create(Texture2D texture, Vector2 position, float speed, float scale)
         {
             // OPGEPAST: De volgende code zal random een movementStrategy genereren, dit is iets wat je meegeeft aan de Create van de Factory en veelal gegenereerd door een klasse
             // Het hier random genereren is puur om het principe te tonen
@@ -40,7 +40,7 @@ namespace Code.GameCore.Entities.Factorys.Enemys
                 case 2: movementStrategy = new FastHorizontalMovementStrategy(); break;
             }
 
-            return new EnemyPlane2Sprite(texture, position, speed, movementStrategy, scale);
+            return new HouseSprite(texture, position, speed, movementStrategy, scale);
         }
     }
 }

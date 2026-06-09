@@ -10,11 +10,12 @@ using System.Threading.Tasks;
 
 namespace Code.GameCore.Entities.Obstacles
 {
-    public class BlueHouseSprite : EnemySprite
+    internal class EnemyPlaneSprite : EnemySprite
     {
         private readonly IMovementStrategy _movementStrategy;
+        public bool Left { get; set; }
 
-        public BlueHouseSprite(Texture2D texture, Vector2 position, float speed,
+        public EnemyPlaneSprite(Texture2D texture, Vector2 position, float speed,
                            IMovementStrategy movementStrategy, float scale = 1)
             : base(texture, position, speed, scale)
         {
@@ -24,11 +25,10 @@ namespace Code.GameCore.Entities.Obstacles
         {
             get
             {
-                Rectangle box = new Rectangle((int)Math.Round(Position.X), (int)Math.Round(Position.Y), 16, 14);
+                Rectangle box = new Rectangle((int)Math.Round(Position.X), (int)Math.Round(Position.Y), (int)(Texture.Width * Scale), (int)(Texture.Height * Scale));
                 return box;
             }
         }
-
         public override void Update()
         {
             _movementStrategy.Update(this);

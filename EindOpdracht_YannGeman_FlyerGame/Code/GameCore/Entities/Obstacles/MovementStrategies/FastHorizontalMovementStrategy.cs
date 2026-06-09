@@ -10,29 +10,17 @@ namespace Code.GameCore.Entities.Obstacles.MovementStrategies
     {
         public void Update(object shark)
         {
-            if (shark is BlueHouseSprite s)
+            if (shark is HouseSprite s)
             {
                 s.UpdatePositionY( s.Speed);
             }
-            if (shark is RedHouseSprite s1)
-            {
-                s1.UpdatePositionY( s1.Speed);
-            }
-            if (shark is EnemyPlane1Sprite s2)
+            if (shark is EnemyPlaneSprite s2)
             {
                 s2.UpdatePositionY(1.25F * s2.Speed);
-            }
-            if (shark is EnemyPlane2Sprite s3)
-            {
-                s3.UpdatePositionY(1.25F * s3.Speed );
             }
             if (shark is TreeSprite s4)
             {
                 s4.UpdatePositionY( s4.Speed);
-            }
-            if (shark is TreesSprite s5)
-            {
-                s5.UpdatePositionY(s5.Speed);
             }
         }
     }
