@@ -5,6 +5,7 @@ using Code.GameCore.Entities.Sprites;
 using Code.GameCore.States;
 using Code.GameCore.States.BaseStates;
 using Code.GameCore.System.inputs;
+using Code.Graphics;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System;
@@ -27,11 +28,16 @@ namespace Code.GameCore
 
         public EntityManager AssetsManager { get; }
 
-        public Vector2 BackgroundPosition { get; set; }
+        public List<Vector2> BackgroundPositions { get; set; }
 
         public GameContext(Game game)
         {
-            BackgroundPosition = new Vector2(0, -800);
+            BackgroundPositions = new List<Vector2>
+            {
+                new Vector2(0, -800),
+                new Vector2(0 , (float)Const.BACKGROUND_HEIGHT -800)
+            };
+
             Enemies = new List<EnemySprite>();
 
             AssetsManager = new EntityManager(game);

@@ -14,6 +14,7 @@ namespace Code.GameCore.States.BaseStates
     public class PlayState : AbstractState
     {
         private readonly ObstacleManager _enemySpawner;
+        private Texture2D _background;
 
         public PlayState(GameContext context)
             : base(context)
@@ -28,6 +29,9 @@ namespace Code.GameCore.States.BaseStates
                 context.AssetsManager.GetTexture(AssetNames.TREEs_TEXTURE)
             };
 
+            _background= context.AssetsManager.GetTexture(AssetNames.BACKGROUND_TEXTURE);
+
+
             _enemySpawner = new ObstacleManager(
                 context.Enemies,
                 enemyTextures, context);
@@ -35,7 +39,14 @@ namespace Code.GameCore.States.BaseStates
 
         public override void Update(GameTime gameTime)
         {
-            UpdateBackgroundPosition();
+            for (int i = 0; i < Context.BackgroundPositions.Count; i++)
+            {
+                Context.BackgroundPositions[i] = Context.BackgroundPositions[i] with { Y = Context.BackgroundPositions[i].Y + Const.BACKGROUND_SPEED };
+                if (Context.BackgroundPositions[i].Y >= 0)
+                {
+                    Context.BackgroundPositions[i] = new Vector2(Context.BackgroundPositions[i].X, -1500);
+                }
+            }
 
 
             foreach (var enemy in Context.Enemies)
@@ -49,26 +60,15 @@ namespace Code.GameCore.States.BaseStates
 
         public override void Draw(GameTime gameTime, SpriteBatch spriteBatch)
         {
-            spriteBatch.Draw(Context.AssetsManager.GetTexture(AssetNames.BACKGROUND_TEXTURE),
-                             Context.BackgroundPosition,
-                             Const.BACKGROUND_SCALE);
+            for (int i = 0; i < Context.BackgroundPositions.Count; i++)
+            {
+                spriteBatch.Draw(_background, Context.BackgroundPositions[i], Const.BACKGROUND_SCALE);
+            }
 
             foreach (var enemySprite in Context.Enemies)
                 enemySprite.Draw(spriteBatch);
 
             Context.Player.Draw(spriteBatch);
         }
-
-        private void UpdateBackgroundPosition()
-        {
-
-            Context.BackgroundPosition = Context.BackgroundPosition with { Y = Context.BackgroundPosition.Y + Const.BACKGROUND_SPEED };
-            if(Context.BackgroundPosition.Y >= 0)
-            {
-                Context.BackgroundPosition = new Vector2(Context.BackgroundPosition.X, -800);
-            }
-        }
-
-
     }
 }

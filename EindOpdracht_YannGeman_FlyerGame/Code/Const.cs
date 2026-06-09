@@ -30,5 +30,6 @@ namespace Code
 
         public const int BACKGROUND_SPEED = 2;
         public const float BACKGROUND_SCALE = 0.75F;
+        public const int BACKGROUND_HEIGHT = 2323;
     }
 }
