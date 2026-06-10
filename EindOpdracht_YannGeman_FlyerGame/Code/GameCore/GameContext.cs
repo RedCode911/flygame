@@ -5,6 +5,7 @@ using Code.GameCore.Entities.Sprites;
 using Code.GameCore.States;
 using Code.GameCore.States.BaseStates;
 using Code.GameCore.System.inputs;
+using Code.GameCore.System.Score;
 using Code.Graphics;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
@@ -19,6 +20,7 @@ namespace Code.GameCore
     public class GameContext
     {
         public AbstractState CurrentState { get; private set; }
+        public AbstractState PereviousState { get; private set; }
 
         public PlayerSprite Player { get; private set; }
 
@@ -30,6 +32,9 @@ namespace Code.GameCore
 
         public List<Vector2> BackgroundPositions { get; set; }
 
+        public int Score { get; set; }
+
+
         public GameContext(Game game)
         {
             BackgroundPositions = new List<Vector2>
@@ -37,6 +42,7 @@ namespace Code.GameCore
                 new Vector2(0, -800),
                 new Vector2(0 , (float)Const.BACKGROUND_HEIGHT -800)
             };
+
 
             Enemies = new List<EnemySprite>();
 
@@ -51,6 +57,7 @@ namespace Code.GameCore
         }
         public void ChangeState(AbstractState newActiveState)
         {
+            PereviousState = CurrentState;
             CurrentState = newActiveState;
         }
 

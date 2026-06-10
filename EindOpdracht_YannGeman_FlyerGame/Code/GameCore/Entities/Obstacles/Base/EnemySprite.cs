@@ -1,5 +1,6 @@
 ﻿using Code.GameCore.Entities.Sprites;
 using Code.GameCore.States.BaseStates;
+using Code.GameCore.System.Score;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System;
@@ -26,7 +27,7 @@ namespace Code.GameCore.Entities.Obstacles.Base
             if (obstacleCollisionBox.Intersects(skierCollisionBox))
                 if (obstacleCollisionBox.Intersects(skierCollisionBox))
                 {
-                    vliegtuig.ChangeState(new GameOverState(vliegtuig));
+                    vliegtuig.ChangeState(new GameOverState(vliegtuig, vliegtuig.Score));
                 }
 
         }

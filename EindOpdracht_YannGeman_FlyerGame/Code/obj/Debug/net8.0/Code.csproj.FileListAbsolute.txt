@@ -83,3 +83,4 @@ C:\Users\yanng\flygame\EindOpdracht_YannGeman_FlyerGame\Code\obj\Debug\net8.0\re
 C:\Users\yanng\flygame\EindOpdracht_YannGeman_FlyerGame\Code\obj\Debug\net8.0\Code.pdb
 C:\Users\yanng\flygame\EindOpdracht_YannGeman_FlyerGame\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
 C:\Users\yanng\flygame\EindOpdracht_YannGeman_FlyerGame\Code\obj\Debug\net8.0\ref\Code.dll
+C:\Users\yanng\flygame\EindOpdracht_YannGeman_FlyerGame\Code\bin\Debug\net8.0\LiteDB.dll

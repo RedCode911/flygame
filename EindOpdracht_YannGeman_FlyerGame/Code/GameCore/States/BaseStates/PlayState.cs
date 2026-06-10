@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Code.GameCore.Entities;
 
 namespace Code.GameCore.States.BaseStates
 {
@@ -48,6 +49,8 @@ namespace Code.GameCore.States.BaseStates
                 }
             }
 
+            Context.Score = gameTime.TotalGameTime.Seconds;
+
 
             foreach (var enemy in Context.Enemies)
                 enemy.Update();
@@ -67,6 +70,8 @@ namespace Code.GameCore.States.BaseStates
 
             foreach (var enemySprite in Context.Enemies)
                 enemySprite.Draw(spriteBatch);
+
+            spriteBatch.DrawString(Context.AssetsManager.GetFont(AssetNames.GAME_FONT), $"Score: {Context.Score}", new Vector2(10, 10), Color.White);
 
             Context.Player.Draw(spriteBatch);
         }

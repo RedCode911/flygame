@@ -1,4 +1,7 @@
-﻿using Microsoft.Xna.Framework;
+﻿using Code.Database;
+using Code.GameCore.States.GameStates;
+using Code.GameCore.System.Score;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
@@ -11,9 +14,28 @@ namespace Code.GameCore.States.BaseStates
 {
     public class GameOverState : AbstractState
     {
-        public GameOverState(GameContext context)
+        private ScoreKeeper ScoreKeeper;
+
+        public GameOverState(GameContext context, int score)
             : base(context)
         {
+            ScoreKeeper = new ScoreKeeper(score);
+            //if(context.PereviousState is SoloState)
+            //{
+            //    DatabaseConnection con = new DatabaseConnection();
+            //    ScoreSoloRepository repo = new ScoreSoloRepository(con);
+            //    repo.Add(context.Score);
+            //}
+            //if (context.PereviousState is TwoPlayerState)
+            //{
+            //    DatabaseConnection con = new DatabaseConnection();
+            //    ScoreVsRepository repo = new ScoreVsRepository(con);
+            //    repo.Add(context.Score);
+            //}
+            DatabaseConnection con = new DatabaseConnection();
+            ScoreSoloRepository repo = new ScoreSoloRepository(con);
+            repo.Add(ScoreKeeper);
+
         }
 
         public override void Update(GameTime gameTime)
